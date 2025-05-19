@@ -46,7 +46,9 @@
 
 ---
 
-### 📄 패키지 목록 파일로 저장 (Optional)(vlm_env_38) unitree@ubuntu:~$ pip list
+### 📄 패키지 목록 파일로 저장 (Optional)
+```
+(vlm_env_38) unitree@ubuntu:~$ pip list
 Package                 Version
 ----------------------- --------------------
 absl-py                 2.2.2
@@ -174,6 +176,5 @@ wcwidth                 0.2.13
 Werkzeug                3.0.6
 wheel                   0.45.1
 zipp                    3.20.2
-(vlm_env_38) unitree@ubuntu:~$ ```
-
+(vlm_env_38) unitree@ubuntu:~$ 
 bash
